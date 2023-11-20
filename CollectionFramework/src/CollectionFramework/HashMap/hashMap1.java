@@ -1,11 +1,11 @@
-package CollectionFramework;
+package CollectionFramework.HashMap;
 
 import java.util.HashMap;
 import java.util.Map;
 
-public class hashMap {
+public class hashMap1 {
     public static void main(String[] args) {
-        Map<Integer , String> students = new java.util.HashMap<>();
+        Map<Integer , String> students = new HashMap<>();
 
         //students.put(1,"John");
         students.put(2,"tom"); //added entry
