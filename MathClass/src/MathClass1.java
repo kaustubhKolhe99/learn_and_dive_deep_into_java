@@ -13,7 +13,7 @@ public class MathClass1 {
         System.out.println(Math.abs(-20));
         System.out.println(Math.abs(9));
 
-        System.out.println(Math.addExact(3,5));
+        System.out.println(Math.addExact(3,5));5
         System.out.println(Math.decrementExact(5));
 
         System.out.println(Math.ceil(3.3));
