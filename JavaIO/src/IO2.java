@@ -3,9 +3,9 @@ import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
-public class IO1 {
+public class IO2 {
 
-    static String filepath = "C:\\Users\\kaust\\Desktop\\file.txt";
+    static String filepath = "D:\\programming\\Java\\learn_and_dive_deep_into_java\\JavaIO\\src\\file.txt";
     public static void main(String[] args) throws FileNotFoundException, IOException {
         try(FileOutputStream fos = new FileOutputStream(filepath , true)) {
             String sent = "Java is awesome";
@@ -26,7 +26,8 @@ public class IO1 {
             System.out.println(read);
 
             int i;
-            while (((i= fis.read()) != -1)){
+            while ((i= fis.read()) != 1){
+                System.out.println((char) i);
 
 
             }
