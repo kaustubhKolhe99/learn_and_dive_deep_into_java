@@ -17,8 +17,6 @@ public class iterateThroughFile {
 
         }
         traverseDir(dir);
-
-
     }
     static void traverseDir(File dir){
         File[] list = dir.listFiles();
