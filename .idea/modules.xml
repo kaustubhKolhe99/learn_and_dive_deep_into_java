@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CollectionFramework/CollectionFramework.iml" filepath="$PROJECT_DIR$/CollectionFramework/CollectionFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Date_time_api/Date_time_api.iml" filepath="$PROJECT_DIR$/Date_time_api/Date_time_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EncapsulationExample/EncapsulationExample.iml" filepath="$PROJECT_DIR$/EncapsulationExample/EncapsulationExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" filepath="$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FinalKeyword/FinalKeyword.iml" filepath="$PROJECT_DIR$/FinalKeyword/FinalKeyword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InheretanceExample/InheretanceExample.iml" filepath="$PROJECT_DIR$/InheretanceExample/InheretanceExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaIO/JavaIO.iml" filepath="$PROJECT_DIR$/JavaIO/JavaIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lambda Expression/Lambda Expression.iml" filepath="$PROJECT_DIR$/Lambda Expression/Lambda Expression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MathClass/MathClass.iml" filepath="$PROJECT_DIR$/MathClass/MathClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Number Checker/Number Checker.iml" filepath="$PROJECT_DIR$/Number Checker/Number Checker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumberGuessingGame/NumberGuessingGame.iml" filepath="$PROJECT_DIR$/NumberGuessingGame/NumberGuessingGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OverridingExample/OverridingExample.iml" filepath="$PROJECT_DIR$/OverridingExample/OverridingExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamAPI/StreamAPI.iml" filepath="$PROJECT_DIR$/StreamAPI/StreamAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/even or odd checker/even or odd checker.iml" filepath="$PROJECT_DIR$/even or odd checker/even or odd checker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fizzbuzz/fizzbuzz.iml" filepath="$PROJECT_DIR$/fizzbuzz/fizzbuzz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics/generics.iml" filepath="$PROJECT_DIR$/generics/generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/insurance rate/insurance rate.iml" filepath="$PROJECT_DIR$/insurance rate/insurance rate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/learn_and_dive_deep_into_java.iml" filepath="$PROJECT_DIR$/.idea/learn_and_dive_deep_into_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/protected example/protected example.iml" filepath="$PROJECT_DIR$/protected example/protected example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quiz/quiz.iml" filepath="$PROJECT_DIR$/quiz/quiz.iml" />
+    </modules>
+  </component>
+</project>

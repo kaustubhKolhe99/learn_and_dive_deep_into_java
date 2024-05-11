@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e38c473e-cc92-4e95-b21f-b5fb17ceced0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MathUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/MathUtilTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CollectionFramework/CollectionFramework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CollectionFramework/CollectionFramework.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Date_time_api/Date_time_api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Date_time_api/Date_time_api.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EncapsulationExample/EncapsulationExample.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../EncapsulationExample/EncapsulationExample.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ExceptionHandling/ExceptionHandling.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ExceptionHandling/ExceptionHandling.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FinalKeyword/FinalKeyword.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../FinalKeyword/FinalKeyword.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../InheretanceExample/InheretanceExample.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../InheretanceExample/InheretanceExample.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/JUnitExample/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/JUnitExample/MathUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/JUnitExample/MathUtilTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaIO/JavaIO.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaIO/JavaIO.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lambda Expression/Lambda Expression.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lambda Expression/Lambda Expression.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MathClass/MathClass.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../MathClass/MathClass.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Number Checker/Number Checker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Number Checker/Number Checker.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../NumberGuessingGame/NumberGuessingGame.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../NumberGuessingGame/NumberGuessingGame.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OverridingExample/OverridingExample.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../OverridingExample/OverridingExample.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StreamAPI/StreamAPI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../StreamAPI/StreamAPI.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../even or odd checker/even or odd checker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../even or odd checker/even or odd checker.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../fizzbuzz/fizzbuzz.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../fizzbuzz/fizzbuzz.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../generics/generics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../generics/generics.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../insurance rate/insurance rate.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../insurance rate/insurance rate.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../protected example/protected example.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../protected example/protected example.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quiz/quiz.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../quiz/quiz.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="1" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2efXdhhZOylwrkNo5hAY2KW95vu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "JUnit.MathUtilTest.ShouldThrowExceptionWhenDividedByZero.executor": "Coverage",
+    "JUnit.MathUtilTest.add.executor": "Coverage",
+    "JUnit.MathUtilTest.executor": "Coverage",
+    "JUnit.MathUtilTest.shouldReturnTrueWhenDivided.executor": "Coverage",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/happypotter/Programming/java/learn_and_dive_deep_into_java/JUnitTesting/MathUtils",
+    "onboarding.tips.debug.path": "/home/happypotter/Programming/java/learn_and_dive_deep_into_java/JUnitTesting/MathUtils/src/main/java/org/example/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MathUtilTest">
+    <configuration name="MathUtilTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MathUtils" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.MathUtilTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MathUtilTest.ShouldThrowExceptionWhenDividedByZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MathUtils" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.MathUtilTest" />
+      <option name="METHOD_NAME" value="ShouldThrowExceptionWhenDividedByZero" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MathUtilTest.add" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MathUtils" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.MathUtilTest" />
+      <option name="METHOD_NAME" value="add" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MathUtilTest.shouldReturnTrueWhenDivided" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MathUtils" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.MathUtilTest" />
+      <option name="METHOD_NAME" value="shouldReturnTrueWhenDivided" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MathUtilTest" />
+        <item itemvalue="JUnit.MathUtilTest.shouldReturnTrueWhenDivided" />
+        <item itemvalue="JUnit.MathUtilTest.ShouldThrowExceptionWhenDividedByZero" />
+        <item itemvalue="JUnit.MathUtilTest.add" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e38c473e-cc92-4e95-b21f-b5fb17ceced0" name="Changes" comment="" />
+      <created>1712296696467</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712296696467</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MathUtils$MathUtilTest_add.ic" NAME="MathUtilTest.add Coverage Results" MODIFIED="1712297568218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.example.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/MathUtils$MathUtilTest_shouldReturnTrueWhenDivided.ic" NAME="MathUtilTest.shouldReturnTrueWhenDivided Coverage Results" MODIFIED="1712503164054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.example.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/MathUtils$MathUtilTest.ic" NAME="MathUtilTest Coverage Results" MODIFIED="1712503293726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.example.*</FILTER>
+    </SUITE>
+  </component>
+</project>

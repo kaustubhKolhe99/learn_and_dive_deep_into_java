@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="297d55a9-5f51-4301-a932-a08b58aa7d30" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/CollectionFramework/CollectionFramework.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Date_time_api/Date_time_api.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EncapsulationExample/EncapsulationExample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalKeyword/FinalKeyword.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InheretanceExample/InheretanceExample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JUnitTesting/MathUtils/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JUnitTesting/MathUtils/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JUnitTesting/MathUtils/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JUnitTesting/MathUtils/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JUnitTesting/MathUtils/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JUnitTesting/MathUtils/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JUnitTesting/MathUtils/src/main/java/com/JUnitExample/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JUnitTesting/MathUtils/src/main/java/com/JUnitExample/MathUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JUnitTesting/MathUtils/src/test/java/com/JUnitExample/MathUtilTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaIO/JavaIO.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda Expression/Lambda Expression.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathClass/MathClass.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Number Checker/Number Checker.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumberGuessingGame/NumberGuessingGame.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OverridingExample/OverridingExample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamAPI/StreamAPI.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/even or odd checker/even or odd checker.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fizzbuzz/fizzbuzz.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generics/generics.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/insurance rate/insurance rate.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/protected example/protected example.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz/quiz.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2efWwgM6zsbymOPaoc3svVr4zqN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="297d55a9-5f51-4301-a932-a08b58aa7d30" name="Changes" comment="" />
+      <created>1712296353176</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712296353176</updated>
+    </task>
+    <servers />
+  </component>
+</project>
